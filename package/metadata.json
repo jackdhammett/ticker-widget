@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Jack "
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "A learning widget to display stock prices!",
+        "Icon": "/usr/share/icons/breeze-dark/mimetypes/16/application-x-skg.svg",
+        "Id": "StockTickerWidget",
+        "Name": "Stock Widget",
+        "Version": "2",
+        "Website": "https://github.com/jackdhammett/ticker-widget",
+        "BugReportUrl": "https://github.com/jackdhammett/ticker-widget"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
